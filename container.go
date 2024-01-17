@@ -3,8 +3,7 @@ package gontainer
 import (
 	"fmt"
 	"log"
-
-	"github.com/facebookgo/inject"
+	"runsystemid/gontainer/inject"
 )
 
 type Graph interface {
