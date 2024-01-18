@@ -1,4 +1,4 @@
-module runsystemid/gontainer
+module github.com/runsystemid/gontainer
 
 go 1.21.3
 

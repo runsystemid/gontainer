@@ -3,7 +3,8 @@ package gontainer
 import (
 	"fmt"
 	"log"
-	"runsystemid/gontainer/inject"
+
+	"github.com/runsystemid/gontainer/inject"
 )
 
 type Graph interface {
